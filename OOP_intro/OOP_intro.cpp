@@ -160,7 +160,7 @@ public:
     }
 
     void print() const {
-        cout << "Ñoordinates of points: (" << x << ", " << y << ", " << z << ")" << endl;
+        cout << "Coordinates of points: (" << x << ", " << y << ", " << z << ")" << endl;
     }
 
    
